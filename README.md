@@ -16,5 +16,6 @@ The calculator performs basic arithmetic operations and demonstrates RTOS concep
 ### Prerequisites
 
 - A development environment with RTOS support.
-- Basic knowledge of C/C++ programming.
+- Basic knowledge of C programming.
+- good knowledge at Microcontroller Peritherals Interface of ATMEGA32
 
